@@ -1,2 +1,3 @@
-# vr-wand-robot
-This repository contains some aspects of the code used as part of my work in the Robot Design Studio capstone at Northwestern
+This directory contains all of the code developed for the 2022 RDS Wand project.
+
+The most updated/working code is stored beneath the FinalCode directory. Please follow all instructions prior to use.
